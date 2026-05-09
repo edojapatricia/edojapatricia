@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mrs Edafe Patricia Eduvieakhere 👋
 
-<!--
-**edojapatricia/edojapatricia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Technician | AI Enthusiast | Digital Innovation Advocate**
+📍 United Kingdom · 🏢 RaffiaTech AI Limited
 
-Here are some ideas to get you started:
+Experienced IT Technician with a growing interest in Artificial Intelligence, digital transformation, and emerging technologies. Passionate about using technology to solve real-world problems, support digital inclusion, and contribute to innovative projects that create social and economic impact. Aspiring to become a recognised technology professional and thought leader in AI and digital innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Aspirations
+
+- Build expertise in Artificial Intelligence and cybersecurity
+- Publish impactful technology articles and research
+- Contribute to digital innovation projects with global impact
+- Become a recognised technology leader within the UK tech ecosystem
+- Pursue opportunities aligned with the UK Global Talent Visa pathway
+
+---
+
+## 🌱 Currently Learning
+
+- Artificial Intelligence & Machine Learning
+- Cybersecurity fundamentals
+- Digital transformation strategies
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: [Edafe Patricia Eduvieakhere](https://www.linkedin.com/in/edafe-patricia-eduvieakhere-85283b62)
+- 🏢 Company: RaffiaTech AI Limited, United Kingdom
