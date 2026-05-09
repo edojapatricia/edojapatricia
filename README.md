@@ -13,7 +13,7 @@ Experienced IT Technician with a growing interest in Artificial Intelligence, di
 - Publish impactful technology articles and research
 - Contribute to digital innovation projects with global impact
 - Become a recognised technology leader within the UK tech ecosystem
-- Pursue opportunities aligned with the UK Global Talent Visa pathway
+
 
 ---
 
